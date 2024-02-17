@@ -1,0 +1,59 @@
+
+click on create fork
+
+
+میریم داخل پوشه مشخص شده
+
+
+اپلود فایل رو میزنیم
+
+
+طبق تصویر فایل جیسون رو اپلود و مشخصات رو وارد میکنیم
+
+جای اپ چین اسم اپ خودتونو میزنینAdding <app_chain_name>
+
+به لینک زیر میریم و روی گزینه مشخص شده کلیک میکنیم
+
+https://github.com/karnotxyz/avail-campaign-listing
+
+
+باز هم روی گزینه مشخص شده کلیک میکنیم
+
+
+روی گزینه های مشخص شده کلیک میکنیم دقت کنین در لیست باید فورک خودتون که فایل جایگزینش کردیمو انتخاب کنید
+
+
+
+در پایان دوباره فایل جیسون که ساختیمو درگ دراپ میکنیم و ریپو رو درخواست میدیم
+
+
+خب همه چیز به درستی پیش رفت و ریپوی ما ایجاد شد و باید منتظر واکنش تیم باشیم اگر تایید بشه اپ چین شما ایجاد میشه
+
+…………………………………………………………………………………………………
+
+اگر تایید بشید پوینت بهتون تعلق میگیره و میتونین تو لینک زیر ببینید
+
+Avail - Clash of nodes leaderboard
+A statistics dashboard and leaderboard for Avail Clash of nodes testnet
+leaderboard.availproject.org
+
+git clone https://github.com/sarox0987/avail-madara
+cd avail-madara
+nano rpc.json
+add your Appchain RPC (server IP)
+
+Ctrl+X Y Enter
+
+go mod tidy
+
+screen -S tx
+
+go run main.go
+Ctrl+A+D
+
+اگر سوالی داشتید در دیسکور پروژه در خدمتتون هستیم
+
+Join the Avail Discord Server!
+Avail is a modular blockchain solution optimized for data availability that lets you spin up blockchains in minutes! |…
+discord.gg
+
